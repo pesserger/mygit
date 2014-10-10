@@ -648,5 +648,5 @@ public partial class DProduct : System.Web.UI.Page
         }
         return DataSelect.CMD_Array(sqlszj, DataSelect.dataname);
     }
-
+////////////////////////////////////
 }
